@@ -1,0 +1,12 @@
+.cursor-pointer{
+    cursor: pointer;
+}
+.form-chec{
+    min-width: 184px;
+    float: left;
+}
+.btn-primary:active,.btn-primary:focus{
+    color: #fff;
+    background-color: #b90938;
+    border-color: #d20e42;
+}
